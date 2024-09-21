@@ -1,3 +1,8 @@
+## App de compras
+- app desenvolvido para facilitar o dia dia, com ele você pode anota seus produtos favoritos.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
